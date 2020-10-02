@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name aso15t)(type KiCad)(uri "$(KIPRJMOD)/aso15t.pretty")(options "")(descr ""))
+)
